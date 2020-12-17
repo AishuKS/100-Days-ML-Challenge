@@ -1,2 +1,2 @@
-# python-basics
-Python basics with syntax and examples
+# 100 Days ML Challenge
+
